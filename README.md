@@ -12,3 +12,6 @@
 - Se posicione na mesma pasta do arquivo docker-run.sh
 - Execute o comando sh docker-run.sh e aguarde todo o processamento
 - Acesse o endereço http://localhost
+
+## EXTRA
+- docker-compose start e docker-compose stop
